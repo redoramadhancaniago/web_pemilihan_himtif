@@ -11,4 +11,3 @@
 
 <p>(https://user-images.githubusercontent.com/77685368/114013363-a4f2fd80-9891-11eb-95df-d1b506dee769.png)</p>
 <p>(https://user-images.githubusercontent.com/77685368/114013466-bfc57200-9891-11eb-821f-3ad50820f1ba.png)</p>
-<p>(https://user-images.githubusercontent.com/77685368/114013540-db307d00-9891-11eb-8bea-79c1acc54f69.png)</p>
