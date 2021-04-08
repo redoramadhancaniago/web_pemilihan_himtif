@@ -8,6 +8,7 @@
   <li>pengawas memantau hasil voting yang belum memilih atau sudah memilih.</li>
 </ol>  
 </P>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/77685368/114014902-547c9f80-9893-11eb-8816-42468379f6fe.gif)
 
 <p>(https://user-images.githubusercontent.com/77685368/114013363-a4f2fd80-9891-11eb-95df-d1b506dee769.png)</p>
 <p>(https://user-images.githubusercontent.com/77685368/114013466-bfc57200-9891-11eb-821f-3ad50820f1ba.png)</p>
